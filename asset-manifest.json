@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rishabh/static/css/main.847f3bcb.css",
-    "main.js": "/Rishabh/static/js/main.0be7c8f0.js",
+    "main.js": "/Rishabh/static/js/main.2e09cb5c.js",
     "static/media/contactgif.gif": "/Rishabh/static/media/contactgif.23f9bf6a730ec06e64fa.gif",
     "static/media/projImg9.png": "/Rishabh/static/media/projImg9.e5ed56ad6af221cd0f2f.png",
     "static/media/projImg8.png": "/Rishabh/static/media/projImg8.5a2b3c7d3af8692d15c0.png",
@@ -15,7 +15,7 @@
     "static/media/backgroundhome.jpg": "/Rishabh/static/media/backgroundhome.88eec78d1461843fbc4a.jpg",
     "static/media/home.png": "/Rishabh/static/media/home.b2c37a90659789e52f99.png",
     "static/media/projImg7.PNG": "/Rishabh/static/media/projImg7.77da7fc73febdad1f16d.PNG",
-    "static/media/RishabhChaudharyResume.pdf": "/Rishabh/static/media/RishabhChaudharyResume.dc28f4005c9984a94475.pdf",
+    "static/media/RishabhChaudharyResume.pdf": "/Rishabh/static/media/RishabhChaudharyResume.1a69b14db77953b5b4b9.pdf",
     "static/media/skill-asset1.png": "/Rishabh/static/media/skill-asset1.76b33e4a6fa18fff538b.png",
     "static/media/skill-asset3.png": "/Rishabh/static/media/skill-asset3.35df4fe2612d68eac6e1.png",
     "static/media/skill-asset2.png": "/Rishabh/static/media/skill-asset2.cf79d58ae9d72f932986.png",
@@ -24,10 +24,10 @@
     "static/media/revicons.woff": "/Rishabh/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Rishabh/index.html",
     "main.847f3bcb.css.map": "/Rishabh/static/css/main.847f3bcb.css.map",
-    "main.0be7c8f0.js.map": "/Rishabh/static/js/main.0be7c8f0.js.map"
+    "main.2e09cb5c.js.map": "/Rishabh/static/js/main.2e09cb5c.js.map"
   },
   "entrypoints": [
     "static/css/main.847f3bcb.css",
-    "static/js/main.0be7c8f0.js"
+    "static/js/main.2e09cb5c.js"
   ]
 }
