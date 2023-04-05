@@ -1,16 +1,11 @@
 import React from 'react'
-import { Col, Container, Row, Nav,Tab } from 'react-bootstrap';
+import { Col, Container, Row, Tab } from 'react-bootstrap';
 import { ProjectCard } from './ProjectCard';
 
 import projImg1 from '../images/projImg1.png'
 import projImg3 from '../images/projImg3.png'
 import projImg4 from '../images/projImg4.png'
 import projImg5 from '../images/projImg5.png'
-import projImg6 from '../images/projImg6.png'
-import projImg7 from '../images/projImg7.PNG'
-import projImg8 from '../images/projImg8.png'
-import projImg9 from '../images/projImg9.png'
-import projImg10 from '../images/projImg10.png'
 
 export const Projects = () => {
     const projects = [
@@ -46,8 +41,8 @@ export const Projects = () => {
 
     
     return (
-        <section className='project' id='projects'>
-            <Container>
+        <section className='project' style={{backgroundColor:"white"}} id='projects'>
+            <Container style={{backgroundColor:"white"}}>
                 <Row>
                     <Col>
                         <h2 style={{margin:"20px"}}>Projects</h2>

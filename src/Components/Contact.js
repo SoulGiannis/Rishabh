@@ -10,8 +10,6 @@ export const Contact = () => {
         message: '',
     }    
     const [formDetails, setFormDetials] = React.useState(formInitialDetails);
-    const [buttonText, setButtonText] = React.useState('Send');
-    const [status, setStatus] = React.useState({});
 
     const onFormUpdate = (category, value) => {
         setFormDetials({
@@ -44,7 +42,7 @@ export const Contact = () => {
                                 </Col>
                                 <Col sm={6} className='px-1'>
                                     <textarea row='6' value={formDetails.message} placeholder='Message' onChange={(e)=> onFormUpdate('message', e.target.value)}/>
-                                    <button type='submit'><span>{buttonText}</span></button>
+                                    <button type='submit'><span>Send</span></button>
                                 </Col>
                             </Row>
                         </form>

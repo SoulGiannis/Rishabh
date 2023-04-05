@@ -1,7 +1,6 @@
 
 import React, {useEffect, useState} from 'react'
 import { Col, Container, Row } from 'react-bootstrap';
-import { ArrowRightCircle } from 'react-bootstrap-icons';
 import homeimg from '../images/home.png'
 
 export const Banner = () => {

@@ -3,9 +3,6 @@ import { Col, Container, Row } from 'react-bootstrap';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
-import skillasset1 from '../images/skill-asset1.png'
-import skillasset2 from '../images/skill-asset2.png'
-import skillasset3 from '../images/skill-asset3.png'
 
 export const Skills = () => {
      const responsive = {
@@ -28,7 +25,7 @@ export const Skills = () => {
     }
   }
     return (
-        <section className='skill' id='skills'>
+        <section style={{backgroundColor:"white"}} className='skill' id='skills'>
             <Container>
                 <Row>
                     <Col>
