@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Rishabh/static/css/main.847f3bcb.css",
-    "main.js": "/Rishabh/static/js/main.f84d50a1.js",
+    "main.js": "/Rishabh/static/js/main.bacf02c6.js",
     "static/media/contactgif.gif": "/Rishabh/static/media/contactgif.23f9bf6a730ec06e64fa.gif",
     "static/media/projImg4.png": "/Rishabh/static/media/projImg4.3b93d9fb7b0373fee198.png",
     "static/media/projImg3.png": "/Rishabh/static/media/projImg3.00fe1d759eeb3152175b.png",
     "static/media/projImg1.png": "/Rishabh/static/media/projImg1.3214e4bc96a2dcf4a27e.png",
     "static/media/projImg5.png": "/Rishabh/static/media/projImg5.f21d60940331398fb6c2.png",
-    "static/media/profile.png": "/Rishabh/static/media/profile.ed4274d2179de0764937.png",
     "static/media/backgroundhome.jpg": "/Rishabh/static/media/backgroundhome.88eec78d1461843fbc4a.jpg",
     "static/media/home.png": "/Rishabh/static/media/home.b2c37a90659789e52f99.png",
     "static/media/RishabhChaudharyResume.pdf": "/Rishabh/static/media/RishabhChaudharyResume.1a69b14db77953b5b4b9.pdf",
+    "static/media/Profile.jpg": "/Rishabh/static/media/Profile.5ad20160684668b6884b.jpg",
     "static/media/revicons.eot": "/Rishabh/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Rishabh/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Rishabh/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Rishabh/index.html",
     "main.847f3bcb.css.map": "/Rishabh/static/css/main.847f3bcb.css.map",
-    "main.f84d50a1.js.map": "/Rishabh/static/js/main.f84d50a1.js.map"
+    "main.bacf02c6.js.map": "/Rishabh/static/js/main.bacf02c6.js.map"
   },
   "entrypoints": [
     "static/css/main.847f3bcb.css",
-    "static/js/main.f84d50a1.js"
+    "static/js/main.bacf02c6.js"
   ]
 }
