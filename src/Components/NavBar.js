@@ -4,7 +4,7 @@ import resume from '../images/resume.png'
 import github from '../images/github.png'
 import linkedin from '../images/linkedin.png'
 import gmail from '../images/gmail.png'
-import logo from '../images/profile.png'
+import logo from '../images/Profile.jpg'
 import folder from "../images/RishabhChaudharyResume.pdf"
 
 export const NavBar = () => {
